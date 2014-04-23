@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AsthmaGaurd</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="main_tabname_x">X Axis</string>
+	<string name="main_tabname_y">Y Axis</string>
+	<string name="main_tabname_z">Z Axis</string>
+	<string name="title_X_axis">X Axis Representation</string>
+</resources>
